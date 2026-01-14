@@ -32,3 +32,11 @@ h2{
 ul{
   line-height: 1.8;
 }
+
+.projects{
+  border: 1px solid #eee;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background: #fafafa;
+}
